@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishabh Surana</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+<h2 align="center">A passionate Fullstack developer from India</h2>
 
 
 - 🌱 I’m currently learning **Machine Learning**
